@@ -11,4 +11,4 @@ set -x
 
 machsql -s 127.0.0.1 -u sys -p manager -f create_sample2_table.sql
 
-csvimport -t sample2_table -d sample_data.csv -F "dt YYYY-MM-DD HH24:MI:SS" -P 34000
+csvimport -t sample2_table -d sample_data.csv -F "dt YYYY-MM-DD HH24:MI:SS"

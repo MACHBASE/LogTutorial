@@ -2,6 +2,6 @@
 
 set -x
 
-csvimport -t awards -d awards.csv -C -H -P 34000
+csvimport -t awards -d awards.csv -C -H
 
 
