@@ -12,14 +12,14 @@ then
 	rm -f sample.exp
 fi
 
-csvexport -t sample_table -d sample.exp
+csvexport -t sample_table -d sample.exp -P 34000
 
 if [ -f sample.out ];
 then
 	rm -f sample.out
 fi
 
-machloader -o -t sample_table -d sample.out -r raw -D ','
+machloader -o -t sample_table -d sample.out -r raw -D ',' -P 34000
 
 if [ -f sample.dat ];
 then
