@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #-----------------------------------------------------------------
-# backup databaase, mount database and retrieve data from mounted DB
+# backup database, mount database and retrieve data from mounted DB
 #
 # Usage: sh backup_mount.sh
 #-----------------------------------------------------------------
