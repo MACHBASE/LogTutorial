@@ -17,4 +17,4 @@ time_expression
 -  n   minute   
 -  n   second 
 
-More information <http://krdoc.machbase.com/pages/viewpage.action?pageId=3178545> 
+**More information** <http://krdoc.machbase.com/pages/viewpage.action?pageId=3178545> 
