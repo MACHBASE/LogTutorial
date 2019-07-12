@@ -15,4 +15,4 @@ First unzip 'sample_data.csv.zip' and execute .sh fils.
 - load_sample2.sh
    - -F : Set the column dateformat. ("_arrival_time YYYY-MM-DD HH24: MI: SS")
 
-More information <http://krdoc.machbase.com/display/MANUAL/MACHLOADER>
+**ore information** <http://krdoc.machbase.com/display/MANUAL/MACHLOADER>
